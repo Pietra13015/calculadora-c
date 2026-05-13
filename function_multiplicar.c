@@ -17,5 +17,5 @@ int multiplicar(int numero1, int numero2)
     }
     produto = produto * sinal1 * sinal2;
 
-    return produto +1;
+    return produto;
 }
